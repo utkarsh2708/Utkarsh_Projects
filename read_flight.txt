@@ -1,0 +1,5 @@
+Things to do During revision Of Project
+
+1. Read about encoding one hot encoding and labelencoding
+
+2. Read about HyperParameter Tunning and Theory Of Machine Learning Algorithms(atleast)
